@@ -19,6 +19,7 @@
 >I have modified workflow for team, that using the combination from **Kanban and Scrum**.
 
 What I have used to do development
+
 Kind | Software/Provider/Tool
 ---- | ----------------------
 Chat | Slack
